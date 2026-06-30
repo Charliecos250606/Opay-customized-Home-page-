@@ -1,0 +1,65 @@
+* {
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+header {
+  background-color: linear-gradient(45deg, darkorange, white);
+  width: 100vw;
+}
+
+nav p,
+.dashboard p,
+.date,
+.status,
+.balance span {
+  font-size: 12px;
+}
+
+.history p {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.balance p {
+  font-size: 1.5rem;
+  font-weight: 800px;
+}
+
+.icon {
+  /* width: 60px;
+  height: 60px; */
+  background-color: rgba(146, 247, 146, 0.7);
+}
+
+.email .main-text {
+  font-size: 18px;
+}
+
+.email .text-info {
+  font-size: 60px;
+}
+
+.small {
+  font-size: 14px;
+}
+
+.rewards {
+  margin-bottom: 80px;
+}
+.rewards .fa-coins {
+  font-size: 30px;
+}
+.reward .text {
+  font-size: 10px;
+  margin-top: -20px;
+}
+.reward button {
+  width: 90px;
+  height: 40px;
+}
